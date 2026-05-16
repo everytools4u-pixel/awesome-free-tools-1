@@ -116,3 +116,9 @@ Found a great free tool? [Open a PR](https://github.com/CoffeePrism/awesome-free
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
+
+## 🌐 All-in-One Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge, split, compress, sign, OCR, redact), image (background removal, resize), video to GIF, QR codes, invoices, JSON formatter. Files never leave your device.
