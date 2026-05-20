@@ -116,3 +116,10 @@ Found a great free tool? [Open a PR](https://github.com/CoffeePrism/awesome-free
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+---
+
+## 🌐 All-in-One Browser Tool Hubs
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: AI tools (background removal), PDF tools (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image tools (resize/compress/convert), video to GIF, QR codes, invoices, developer tools (JSON, Base64, UUID, JWT, hash, regex, password). Zero upload, no account required.
